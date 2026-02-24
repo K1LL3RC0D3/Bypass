@@ -4,7 +4,7 @@ import { defineConfig } from "vite"
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/KLL3RC03/',
+  base: '/KLL3RC0D3/',
   plugins: [react()],
   resolve: {
     alias: {
